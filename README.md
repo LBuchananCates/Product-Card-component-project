@@ -64,4 +64,4 @@ I wish to continue focusing on finding more flexible ways to size fonts and imag
 ## Author
 
 - Website - [Leighton Buchanan-Cates ([https://www.your-site.com](https://joyful-narwhal-2c5380.netlify.app))
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/LBuchananCates)
+- Frontend Mentor -(https://www.frontendmentor.io/profile/LBuchananCates)
