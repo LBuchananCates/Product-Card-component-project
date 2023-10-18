@@ -51,11 +51,6 @@ Mostly proud of how clearly I labelled the classes in html to make the styling p
         <div class="original-price">$169.99</div>
       </div>
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
 
 ### Continued development
 
@@ -68,5 +63,5 @@ I wish to continue focusing on finding more flexible ways to size fonts and imag
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Leighton Buchanan-Cates ([https://www.your-site.com](https://joyful-narwhal-2c5380.netlify.app))
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/LBuchananCates)
