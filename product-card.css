@@ -1,0 +1,60 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+    font-family: 'Monserrat', sans-serif;
+}
+
+.mobile-view-container {
+    background-color: white;
+    border-radius: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+.mobile-img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.product-contents-container {
+    padding: 10px 25px;
+}
+
+.product-header {
+    font-size: small;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: hsl(228, 12%, 48%);
+}
+
+.product-title {
+    font-family: 'Fraunces';
+}
+
+.product-description {
+    color: hsl(228, 12%, 48%);
+    line-height: 1.5rem;
+}
+
+.current-price {
+    font-family: 'Fraunces';
+    color: hsl(158, 36%, 37%);
+    font-size: 30px;
+}
+
+.original-price {
+    text-decoration: line-through;
+}
+
+/* .shopping-cart-icon {} */
+
+.product-cart-button {
+    background-color: hsl(158, 36%, 37%);
+    width: 100%;
+    padding: 15px 20px;
+    color: white;
+    border-radius: 7px;
+    border-style: none;
+    font-weight: 700;
+    margin: 18px 0;
+    cursor: pointer;
+}
