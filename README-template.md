@@ -25,14 +25,12 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
+![mobile view](<Screen Shot 2023-10-18 at 2.35.50 PM.png>)
 ![desktop view](<Screen Shot 2023-10-18 at 2.12.07 PM.png>)
-![mobile view](<Screen Shot 2023-10-18 at 2.14.44 PM.png>)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://joyful-narwhal-2c5380.netlify.app
 
 ## My process
 
@@ -45,10 +43,13 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Mostly proud of how clearly I labelled the classes in html to make the styling part easier (always a challenge)
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div class="price-title">
+        <div class="current-price">$149.99</div>
+        <div class="original-price">$169.99</div>
+      </div>
 ```
 ```css
 .proud-of-this-css {
