@@ -91,7 +91,7 @@ body {
 @media screen and (min-width: 1440px) {
     .product-container {
         display: flex;
-        max-width: 55%;
+        overflow: auto;
     }
 
     /* images */
