@@ -45,16 +45,22 @@ body {
     font-size: 2rem;
 }
 
+/* prices */
+.price-title {
+    display: flex;
+    align-items: center;
+}
+
 .current-price {
     font-family: 'Fraunces';
     font-size: 4rem;
     color: hsl(158, 36%, 37%);
-    padding: 20px 0;
+    padding: 20px 30px 20px 0;
 }
 
 .original-price {
     text-decoration: line-through;
-    font-size: 1rem;
+    font-size: 2rem;
     font-family: 'Montserrat', sans-serif;
     color: hsl(228, 12%, 48%);
 }
@@ -122,7 +128,6 @@ body {
 
     .current-price {
         font-size: 60px;
-        padding: 30px 0;
     }
 
     .original-price {
